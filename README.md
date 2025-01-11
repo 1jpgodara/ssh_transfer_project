@@ -1,8 +1,8 @@
-Here’s a *README.md* file for your project:
+Here’s a **README.md** file for your project:
 
 ---
 
-# SSH Transfer Project**
+# **SSH Transfer Project**
 
 This project is a simple C++ application that performs file compression, decompression, and simulates SSH-like file transfer. The goal is to handle files of varying sizes (from a few bytes to large files up to 100 GB) and demonstrate modular programming with proper code documentation.
 
